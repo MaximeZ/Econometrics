@@ -1,0 +1,80 @@
+Code,Indicator,Source
+GC.DOD.TOTL.GD.ZS,"Central government debt, total (% of GDP)",wb
+BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)",wb
+BN.CAB.XOKA.GD.ZS,Current account balance (% of GDP),wb
+FS.AST.DOMS.GD.ZS,Domestic credit provided by financial sector (% of GDP),wb
+FS.AST.PRVT.GD.ZS,Domestic credit to private sector (% of GDP),wb
+FD.AST.PRVT.GD.ZS,Domestic credit to private sector by banks (% of GDP),wb
+CM.MKT.LCAP.GD.ZS,Market capitalization of listed domestic companies (% of GDP),wb
+CM.MKT.LCAP.CD,Market capitalization of listed domestic companies (current US$),wb
+MS.MIL.XPND.GD.ZS,Military expenditure (% of GDP),wb
+MS.MIL.XPND.ZS,Military expenditure (% of central government expenditure),wb
+SP.POP.TOTL,"Population, total",wb
+SP.POP.TOTL.FE.ZS,"Population, female (% of total)",wb
+DT.NFL.BOND.CD,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",wb
+BN.KLT.PTXL.CD,"Portfolio investment, net (BoP, current US$)",wb
+BX.PEF.TOTL.CD.WD,"Portfolio equity, net inflows (BoP, current US$)",wb
+FR.INR.RINR,Real interest rate (%),wb
+PX.REX.REER,Real effective exchange rate index (2010 = 100),wb
+GC.TAX.TOTL.GD.ZS,Tax revenue (% of GDP),wb
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",wb
+NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),wb
+NE.EXP.GNFS.KD.ZG,Exports of goods and services (annual % growth),wb
+BX.GSR.GNFS.CD,"Exports of goods and services (BoP, current US$)",wb
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),wb
+NY.GNS.ICTR.ZS,Gross savings (% of GDP),wb
+NY.GNS.ICTR.CD,Gross savings (current US$),wb
+NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),wb
+NE.IMP.GNFS.KD.ZG,Imports of goods and services (annual % growth),wb
+BM.GSR.GNFS.CD,"Imports of goods and services (BoP, current US$)",wb
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),wb
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",wb
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",wb
+FB.AST.NPER.ZS,Bank nonperforming loans to total gross loans (%),wb
+FM.LBL.BMNY.GD.ZS,Broad money (% of GDP),wb
+FM.LBL.BMNY.ZG,Broad money growth (annual %),wb
+NGDP_R,"Gross domestic product, constant prices/National currency",imf
+NGDP_RPCH,"Gross domestic product, constant prices/Percent change",imf
+NGDP,"Gross domestic product, current prices/National currency",imf
+NGDPD,"Gross domestic product, current prices/U.S. dollars",imf
+PPPGDP,"Gross domestic product, current prices/Purchasing power parity; international dollars",imf
+NGDP_D,"Gross domestic product, deflator/Index",imf
+NGDPRPC,"Gross domestic product per capita, constant prices/National currency",imf
+NGDPRPPPPC,"Gross domestic product per capita, constant prices/Purchasing power parity; 2011 international dollar",imf
+NGDPPC,"Gross domestic product per capita, current prices/National currency",imf
+NGDPDPC,"Gross domestic product per capita, current prices/U.S. dollars",imf
+PPPPC,"Gross domestic product per capita, current prices/Purchasing power parity; international dollars",imf
+NGAP_NPGDP,Output gap in percent of potential GDP/Percent of potential GDP,imf
+PPPSH,Gross domestic product based on purchasing-power-parity (PPP) share of world total/Percent,imf
+PPPEX,Implied PPP conversion rate/National currency per current international dollar,imf
+NID_NGDP,Total investment/Percent of GDP,imf
+NGSD_NGDP,Gross national savings/Percent of GDP,imf
+PCPI,"Inflation, average consumer prices/Index",imf
+PCPIPCH,"Inflation, average consumer prices/Percent change",imf
+PCPIE,"Inflation, end of period consumer prices/Index",imf
+PCPIEPCH,"Inflation, end of period consumer prices/Percent change",imf
+FLIBOR6,Six-month London interbank offered rate (LIBOR)/Percent,imf
+TM_RPCH,Volume of imports of goods and services/Percent change,imf
+TMG_RPCH,Volume of Imports of goods/Percent change,imf
+TX_RPCH,Volume of exports of goods and services/Percent change,imf
+TXG_RPCH,Volume of exports of goods/Percent change,imf
+LUR,Unemployment rate/Percent of total labor force,imf
+LE,Employment/Persons,imf
+LP,Population/Persons,imf
+GGR,General government revenue/National currency,imf
+GGR_NGDP,General government revenue/Percent of GDP,imf
+GGX,General government total expenditure/National currency,imf
+GGX_NGDP,General government total expenditure/Percent of GDP,imf
+GGXCNL,General government net lending/borrowing/National currency,imf
+GGXCNL_NGDP,General government net lending/borrowing/Percent of GDP,imf
+GGSB,General government structural balance/National currency,imf
+GGSB_NPGDP,General government structural balance/Percent of potential GDP,imf
+GGXONLB,General government primary net lending/borrowing/National currency,imf
+GGXONLB_NGDP,General government primary net lending/borrowing/Percent of GDP,imf
+GGXWDN,General government net debt/National currency,imf
+GGXWDN_NGDP,General government net debt/Percent of GDP,imf
+GGXWDG,General government gross debt/National currency,imf
+GGXWDG_NGDP,General government gross debt/Percent of GDP,imf
+NGDP_FY,"Gross domestic product corresponding to fiscal year, current prices/National currency",imf
+BCA,Current account balance/U.S. dollars,imf
+BCA_NGDPD,Current account balance/Percent of GDP,imf
